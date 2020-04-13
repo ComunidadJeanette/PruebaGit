@@ -15,3 +15,8 @@ function control2(){
     var z = 6;
     console.log (z*x);
 }
+
+function Sumas(){
+    //cambios de rama
+    //Sumar
+}
