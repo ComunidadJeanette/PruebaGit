@@ -16,7 +16,7 @@ function control2(){
     console.log (z*x);
 }
 
-function Sumas(){
+function FuncionJEanette2(){
     //cambios de rama
     //Sumar
 }
